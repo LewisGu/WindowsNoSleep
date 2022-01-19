@@ -17,6 +17,10 @@ This project is developped under
 
 ## Version Description
 
+### v2.0
+
+add a gui interface, and fulfil relating control
+
 ### v1.0
 
 finish basic function with command line
